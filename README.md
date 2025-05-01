@@ -1,7 +1,8 @@
 
 # 🏥 Healthcare SQL + Python Portfolio Project
 
-### 📊 Hospital Performance & Patient Analytics  
+## 📊 Hospital Performance & Patient Analytics  
+
 **Tools Used:** Python · SQLite · Pandas · Matplotlib · Seaborn · Scipy · Jupyter Notebook
 
 ---
@@ -17,6 +18,7 @@ The notebook uses **SQL inside Python** to run powerful queries, clean the data,
 ## 📁 Dataset Structure
 
 The project works with 7 linked tables:
+
 - `patients`
 - `admissions`
 - `hospitals`
@@ -30,20 +32,24 @@ The project works with 7 linked tables:
 ## 📌 Key Steps
 
 ### ✅ Data Cleaning
+
 - Checked for missing values and duplicates
 - Verified data types and column formats
 
 ### ✅ Exploratory Data Analysis (EDA)
+
 - SQL preview of all key tables
 - Column and row count validations
 
 ### ✅ Deep Analysis
+
 - **Admissions**: Most common types, trends over time, top hospitals
 - **Billing**: Paid vs billed amounts, revenue gaps, payment status analysis
 - **Medications**: Most prescribed meds, Emergency vs Elective patient differences
 - **Test Results**: Distribution, average by test type, abnormality detection
 
 ### ✅ Statistical Testing
+
 - **Correlation**: Billing vs Length of Stay
 - **T-Test**: Emergency vs Elective stay durations
 - **Null Hypothesis** clearly defined and evaluated
@@ -51,6 +57,7 @@ The project works with 7 linked tables:
 ---
 
 ## 📈 Visuals
+
 - Horizontal and vertical bar charts
 - Line charts for monthly trends
 - Histograms for distribution insights
