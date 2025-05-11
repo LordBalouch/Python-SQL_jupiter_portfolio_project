@@ -2,3 +2,5 @@
 .qodo
 */~*.*
 ~$thon_sql_draft.docx
+backup*/
+venv/*
